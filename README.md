@@ -15,4 +15,14 @@ File will be separated by line
 
 One line - one file with barcode/QR
 
-Enjoy!
+# I used:
+
+barcode
+
+PyQt5
+
+os
+
+qrcode
+
+glob
